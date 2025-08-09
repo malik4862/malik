@@ -1,0 +1,2 @@
+rootProject.name = 'BinanceSignalsReady'
+include ':app'
